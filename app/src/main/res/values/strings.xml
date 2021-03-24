@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="to_do_app">To Do App</string>
+    <string name="to_do">To Do</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="what_will_you_want_to_do">What will you want to do?</string>
+    <string name="todo_list">TODO</string>
+    <string name="dreams_come_true">Dreams come true</string>
+    <string name="faq">FAQ</string>
+    <string name="faq_title">You can click on the article to update</string>
+    <string name="faq_delete">Click here to delete</string>
+    <string name="faq_add">Click here to add a new wish</string>
+</resources>
